@@ -1,11 +1,13 @@
 {
   "name": "@opencreek/deno-std-collections",
-  "files": [ "dist" ],
+  "files": [
+    "dist"
+  ],
   "version": "0.109.0",
   "description": "Node compatible mirror of deno.land/std/collections",
   "main": "dist/mod.js",
   "scripts": {
-      "build": "make build"
+    "build": "make build"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
