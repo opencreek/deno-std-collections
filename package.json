@@ -4,6 +4,9 @@
   "version": "0.109.0",
   "description": "Node compatible mirror of deno.land/std/collections",
   "main": "dist/mod.js",
+  "scripts": {
+      "build": "make build"
+  },
   "author": "Opencreek Technology<oss@opencreek.tech>",
   "license": "MIT"
 }
